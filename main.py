@@ -1,6 +1,6 @@
 #import findspark
 import time
-from pyspark import SparkConf,SparkContext,SQLContext
+from pyspark import SparkConf,SparkContext
 from pyspark.streaming import StreamingContext
 import sys
 import requests
