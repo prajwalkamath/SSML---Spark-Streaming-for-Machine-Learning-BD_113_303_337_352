@@ -1,0 +1,12 @@
+Accuracy of SGD Classifier:0.49616250000000023
+F1 Score of SGD Classifier:0.48582849524925614
+Recall of SGD Classifier:0.49616250000000023
+Precision of SGD Classifier:0.4954775198476197
+Accuracy of PAC Classifier:0.516425
+F1 Score of PAC Classifier:0.511048464941885
+Recall of PAC Classifier:0.516425
+Precision of PAC Classifier:0.5181984340777166
+Accuracy of Multinomial Classifier:0.5055189873417719
+F1 Score of Multinomial Classifier:0.5051143000813357
+Recall of Multinomial Classifier:0.5055189873417719
+Precision of Multinomial Classifier:0.5061322034929686
